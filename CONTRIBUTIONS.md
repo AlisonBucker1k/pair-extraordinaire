@@ -4,3 +4,4 @@ pair extraordinaire 3
 pair extraordinaire 4
 pair extraordinaire 5
 pair extraordinaire 6
+pair extraordinaire 7
